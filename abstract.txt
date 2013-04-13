@@ -1,0 +1,16 @@
+on hacker news (news.ycombinator.com) from the console.
+
+It was written by Peteris Krumins (peter@catonmat.net).
+His blog is at http://www.catonmat.net  --  good coders code, great reuse.
+
+The code is licensed under the GNU GPL license.
+
+The code was written as a part of the article "Follow Hacker News from the
+Console" on my website. The whole article can be read at:
+
+    http://www.catonmat.net/blog/follow-hacker-news-from-the-console/
+
+I explained some parts of the code in this program in another article "How
+Reddit Top and Hacker Top Programs Were Made". It can be read here:
+
+http://www.catonmat.net/blog/how-reddit-top-and-hacker-top-programs-were-made/
